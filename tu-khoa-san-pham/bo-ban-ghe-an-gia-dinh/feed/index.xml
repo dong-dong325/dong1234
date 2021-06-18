@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bo ban ghe an gia dinh &#8211; dong_dong</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/bo-ban-ghe-an-gia-dinh/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dong-dong325.github.io/dong1234</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Tue, 15 Jun 2021 04:09:06 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Bộ bàn ghế ăn gia đình</title>
+		<link>https://dong-dong325.github.io/dong1234/sản%20phẩm/bo-ban-ghe-an-gia-dinh/</link>
+					<comments>https://dong-dong325.github.io/dong1234/sản%20phẩm/bo-ban-ghe-an-gia-dinh/#respond</comments>
+		
+		<dc:creator><![CDATA[dong123]]></dc:creator>
+		<pubDate>Tue, 15 Jun 2021 03:51:46 +0000</pubDate>
+				<guid isPermaLink="false">https://dong-dong325.github.io/dong1234/?post_type=product&#038;p=105</guid>
+
+					<description><![CDATA[Bàn ghế gỗ dùng cho phòng ăn gia đình không thể thiếu đối với các gia đình hiện nay, bàn ghế ăn rất tiện dụng. Đối với bàn ghế ăn gỗ thể hiện được một không gian phòng ăn sang trọng, hiện đại hơn, gỗ đảm bảo bền lâu trong quá trình sử dụng, giúp [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Bàn ghế gỗ</strong> dùng cho phòng ăn gia đình không thể thiếu đối với các gia đình hiện nay, bàn ghế ăn rất tiện dụng. Đối với bàn ghế ăn gỗ thể hiện được một không gian phòng ăn sang trọng, hiện đại hơn, gỗ đảm bảo bền lâu trong quá trình sử dụng, giúp giảm chi phí cho các gia đình.Bộ bàn ghế ăn gia đình được thiết kế với rất nhiều kiểu dáng và mẫu mã khác nhau, thoải mái lựa chọn khi đến với Công ty nội thất Toàn Cầu. Bộ bàn ghế ăn gia đình được làm bằng gỗ gụ, chất liệu gỗ rất bền, màu sắc sang trọng được lựa chọn nhiều nhất năm nay.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://dong-dong325.github.io/dong1234/sản%20phẩm/bo-ban-ghe-an-gia-dinh/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
